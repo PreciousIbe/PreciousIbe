@@ -11,7 +11,7 @@ I'm a Data Engineer, Data Analyst and a Certified Virtual Assistant. I'm passion
 - 🌱 I’m currently learning Python, SQL, No-SQL and object-oriented databases.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Data Engineer(Intern or Junior level), Virtual Assistant or Data Analyst roles.
-- 📫 You can [view my resume]([https://docs.google.com/document/d/1_YNtJNJCm9VQRxcZKRKgEGSH1cJ3zDevFIYReWR9PIY/edit?usp=sharing](https://docs.google.com/document/d/1HabT96skI1-HEcYu-WT0GSEOSD7KmID4/edit?usp=sharing&ouid=114849093459789527988&rtpof=true&sd=true)) and contact me by emailing ibenchedo20@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1HabT96skI1-HEcYu-WT0GSEOSD7KmID4/edit?usp=sharing&ouid=114849093459789527988&rtpof=true&sd=true) and contact me by emailing ibenchedo20@gmail.com.
 
 ---
 
